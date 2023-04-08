@@ -56,12 +56,24 @@ I'm a Front End ReactJS developer with a passion for building modern and respons
 - Twitter: [@vishal26x](https://twitter.com/vishal26x)
 - GitHub: [@vishalpx](https://github.com/vishalpx)
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
-Here are some of the projects I've worked on:
+<!-- Pretty Captions Project -->
+<div align="center">
+    <a href="https://p-captions.web.app/"><img src="https://i.imgur.com/q5F5r5e.png" alt="Pretty Captions" width="600"></a>
+    <p><b>Pretty Captions</b> - Generates Captions for social media posts with the power of AI.</p>
+    <p>Built with: <b>React</b></p>
+    <p>Link: <a href="https://p-captions.web.app/">https://p-captions.web.app/</a></p>
+</div>
 
-- [Pretty Captions](https://github.com/vishalpx/pretty-captions) - Generate cool captions for your posts using AI
-- [YT Song Downloader](https://github.com/vishalpx/yt-song-downloader) - A web app to download songs from YouTube
+<!-- YT Song Downloader Project -->
+<div align="center">
+    <a href="https://github.com/vishalpx/yt-song-downloader"><img src="https://i.imgur.com/d1sWubE.png" alt="YT Song Downloader" width="600"></a>
+    <p><b>YT Song Downloader</b> - Download songs from youtube.</p>
+    <p>Built with: <b>React</b></p>
+    <p>Link: <a href="https://github.com/vishalpx/yt-song-downloader">https://github.com/vishalpx/yt-song-downloader</a></p>
+</div>
+
 
 ## 🏆 Certifications
 
@@ -70,13 +82,6 @@ Here are some of the projects I've worked on:
 
 
 ## 📈 Metrics
-
-<!-- Your website metrics -->
-<p align="center">
-    <a href="https://vishalgupta26.github.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fvishalgupta26.github.io%2F&style=for-the-badge"></a>
-    <a href="https://github.com/vishalpx?tab=repositories"><img src="https://img.shields.io/github/repo-size/vishalpx/vishalpx?color=green&label=Repo%20size&logo=github&style=for-the-badge"></a>
-    <a href="https://github.com/vishalpx"><img src="https://img.shields.io/github/followers/vishalpx?color=blue&logo=github&style=for-the-badge"></a>
-</p>
 
 <!-- Your programming metrics -->
 <p align="center">
