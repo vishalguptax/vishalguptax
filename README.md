@@ -60,19 +60,34 @@ I'm a Front End ReactJS developer with a passion for building modern and respons
 
 <!-- Pretty Captions Project -->
 <div align="center">
-    <a href="https://p-captions.web.app/"><img src="https://i.imgur.com/q5F5r5e.png" alt="Pretty Captions" width="600"></a>
+    <a href="https://p-captions.web.app/">
+        <img src="https://i.imgur.com/q5F5r5e.png" alt="Pretty Captions" width="600">
+    </a>
+    <p>
+        <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript" alt="Language: JavaScript">
+        <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react" alt="Framework: React">
+        <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?style=flat-square&logo=firebase" alt="Database: Firebase">
+        <img src="https://img.shields.io/badge/UI%20Library-Material--UI-0081CB?style=flat-square&logo=material-ui" alt="UI Library: Material-UI">
+    </p>
     <p><b>Pretty Captions</b> - Generates Captions for social media posts with the power of AI.</p>
-    <p>Built with: <b>React</b></p>
+    <p>Built with: <b>React, Firebase, Material-UI</b></p>
     <p>Link: <a href="https://p-captions.web.app/">https://p-captions.web.app/</a></p>
 </div>
 
 <!-- YT Song Downloader Project -->
 <div align="center">
-    <a href="https://github.com/vishalpx/yt-song-downloader"><img src="https://i.imgur.com/d1sWubE.png" alt="YT Song Downloader" width="600"></a>
+    <a href="https://github.com/vishalpx/yt-song-downloader">
+        <img src="https://i.imgur.com/d1sWubE.png" alt="YT Song Downloader" width="600">
+    </a>
+    <p>
+        <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript" alt="Language: JavaScript">
+        <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react" alt="Framework: React">
+    </p>
     <p><b>YT Song Downloader</b> - Download songs from youtube.</p>
     <p>Built with: <b>React</b></p>
     <p>Link: <a href="https://github.com/vishalpx/yt-song-downloader">https://github.com/vishalpx/yt-song-downloader</a></p>
 </div>
+
 
 
 ## 🏆 Certifications
