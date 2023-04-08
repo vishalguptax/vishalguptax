@@ -19,6 +19,7 @@ const skills = {
   tools: ['Git', 'Webpack', 'ESLint', 'Jest'],
   backend: ['Node.js', 'Express', 'MongoDB', 'Firebase']
 };
+```
 
 ## 📫 How to reach me
 
