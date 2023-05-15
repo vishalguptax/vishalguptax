@@ -78,8 +78,8 @@ YT Song Downloader is a web application that allows you to download songs from Y
 
 <!-- Your programming metrics -->
 <p align="center">
-    <a href="https://github.com/vishalpixels"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalone&layout=compact&langs_count=8&theme=algolia&hide_border=true"></a>
-    <a href="https://github.com/vishalpixels"><img src="https://github-readme-stats.vercel.app/api?username=vishalone&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"></a>
+    <a href="https://github.com/vishalpixels"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpixels&layout=compact&langs_count=8&theme=algolia&hide_border=true"></a>
+    <a href="https://github.com/vishalpixels"><img src="https://github-readme-stats.vercel.app/api?username=vishalpixels&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"></a>
 </p>
 
 
