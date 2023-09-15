@@ -46,14 +46,14 @@ I'm a Front End ReactJS developer with a passion for building modern and respons
 
 - Instagram: [@vishalgupta.1](https://www.instagram.com/vishalgupta.1/)
 - Twitter: [@vishal26x](https://twitter.com/vishal26x)
-- GitHub: [@vishalguptacodes](https://github.com/vishalguptacodes)
+- GitHub: [@vishalguptax](https://github.com/vishalguptax)
 
 ## 🚀 Featured Projects
 
 ### Pretty Captions
 
 - Technologies used: `React`, `OpenAI GPT-3 API`, `HTML`, `CSS`, `JavaScript`
-- [GitHub](https://github.com/vishalguptacodes/pretty-captions)
+- [GitHub](https://github.com/vishalguptax/pretty-captions)
 - [Live Demo](https://p-captions.web.app/)
 
 Pretty Captions is a web application that generates captions for social media posts with the power of AI. 
@@ -61,7 +61,7 @@ Pretty Captions is a web application that generates captions for social media po
 ### YT Song Downloader
 
 - Technologies used: `React`, `YouTube Data API`, `HTML`, `CSS`, `JavaScript`
-- [GitHub](https://github.com/vishalguptacodes/yt-song-downloader)
+- [GitHub](https://github.com/vishalguptax/yt-song-downloader)
 - [Live Demo](https://ytsongloader.netlify.app/)
 
 YT Song Downloader is a web application that allows you to download songs from YouTube. 
@@ -78,8 +78,8 @@ YT Song Downloader is a web application that allows you to download songs from Y
 
 <!-- Your programming metrics -->
 <p align="center">
-    <a href="https://github.com/vishalguptacodes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalguptacodes&layout=compact&langs_count=8&theme=algolia&hide_border=true"></a>
-    <a href="https://github.com/vishalguptacodes"><img src="https://github-readme-stats.vercel.app/api?username=vishalguptacodes&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"></a>
+    <a href="https://github.com/vishalguptax"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalguptax&layout=compact&langs_count=8&theme=algolia&hide_border=true"></a>
+    <a href="https://github.com/vishalguptax"><img src="https://github-readme-stats.vercel.app/api?username=vishalguptax&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"></a>
 </p>
 
 
