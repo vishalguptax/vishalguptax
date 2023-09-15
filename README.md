@@ -46,14 +46,14 @@ I'm a Front End ReactJS developer with a passion for building modern and respons
 
 - Instagram: [@vishalgupta.1](https://www.instagram.com/vishalgupta.1/)
 - Twitter: [@vishal26x](https://twitter.com/vishal26x)
-- GitHub: [@vishalone](https://github.com/vishalone)
+- GitHub: [@vishalguptacodes](https://github.com/vishalguptacodes)
 
 ## 🚀 Featured Projects
 
 ### Pretty Captions
 
 - Technologies used: `React`, `OpenAI GPT-3 API`, `HTML`, `CSS`, `JavaScript`
-- [GitHub](https://github.com/vishalone/pretty-captions)
+- [GitHub](https://github.com/vishalguptacodes/pretty-captions)
 - [Live Demo](https://p-captions.web.app/)
 
 Pretty Captions is a web application that generates captions for social media posts with the power of AI. 
@@ -61,7 +61,7 @@ Pretty Captions is a web application that generates captions for social media po
 ### YT Song Downloader
 
 - Technologies used: `React`, `YouTube Data API`, `HTML`, `CSS`, `JavaScript`
-- [GitHub](https://github.com/vishalone/yt-song-downloader)
+- [GitHub](https://github.com/vishalguptacodes/yt-song-downloader)
 - [Live Demo](https://ytsongloader.netlify.app/)
 
 YT Song Downloader is a web application that allows you to download songs from YouTube. 
