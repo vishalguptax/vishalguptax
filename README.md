@@ -17,15 +17,18 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 
-I’m a **Frontend Engineer** with **3+ years of experience**, passionate about creating **fast, scalable, and visually refined web applications**.  
-I specialize in **React**, **Next.js**, and **TypeScript**, building seamless and performant user interfaces that feel natural and modern.  
-With a growing focus on **AI-driven experiences**, I integrate **LLMs**, **RAG pipelines**, and **real-time agent workflows** to make web apps smarter and more dynamic.  
-I also bring working knowledge of **Node.js**, **Express**, and **MongoDB**, enabling smooth frontend–backend integration and deployment workflows.  
-I thrive on crafting **clean UI architecture**, improving **developer experience**, and merging **frontend excellence with AI innovation**.  
+<p>
+  <b>Frontend Engineer • AI Enthusiast • Creative Technologist</b><br>
+  <i>“Designing experiences that look great, feel fast, and think smart.”</i>
+</p>
 
-
+🚀 With **3+ years of experience**, I specialize in building **pixel-perfect**, **high-performing** web apps using  
+⚛️ <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>TailwindCSS</b>.  
+🤖 Passionate about the future of the web — I integrate **AI**, **LLMs**, and **RAG pipelines** to create interactive, intelligent user experiences.  
+🧩 I have hands-on knowledge of **Node.js**, **Express**, and **MongoDB**, enabling smooth frontend–backend synergy.  
+✨ I love crafting interfaces that blend **creativity + logic**, where performance meets personality and every pixel has purpose.
 
 ---
 
