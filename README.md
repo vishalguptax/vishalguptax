@@ -2,9 +2,8 @@
 <h3 align="center">Sr. Frontend Developer | Building delightful web experiences</h3>
 
 <p align="center">
-  <a href="https://vishal.in">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/vishalgupta26/">💼 LinkedIn</a> •
-  <a href="https://github.com/vishalguptax">🐙 GitHub</a>
+  <a target="_blank" href="https://vishalg.in">🌐 Portfolio</a> •
+  <a target="_blank" href="https://www.linkedin.com/in/vishalgupta26/">💼 LinkedIn</a>
 </p>
 
 ---
