@@ -3,7 +3,7 @@
 
 <!-- 👋 Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=480&lines=👋+Hi%2C+I'm+Vishal+Gupta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=480&lines=👋+Hi%2C+I'm+Vishal+Gupta;&center=true&vCenter=true&repeat=false" alt="Typing SVG" />
 </p>
 
 <h4 align="center">💻 Sr. Frontend Developer | 🤖 AI + Web Engineer | ⚙️ Tech Lead</h4>
