@@ -1,7 +1,11 @@
-<h1 align="center">👋 Hey, I'm Vishal Gupta</h1>
-<h3 align="center">Sr. Frontend Developer | AI + Web Engineer | Gamer 🎮</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BB2F6&height=120&section=header" alt="header"/> 
 
-<p align="center">
+<a href="https://git.io/typing-svg">
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=32&duration=4000&pause=1000&color=3BB2F6&width=400&lines=👋+Hi%2C+I'm+Vishal+Gupta;&center=true&vCenter=true&repeat=false" alt="Vishal Gupta Typing SVG" />
+</a>
+<h3>Sr. Frontend Developer | AI + Web Engineer | Gamer 🎮</h3>
+
+<p>
   <a target="_blank" href="https://vishalg.in">🌐 Portfolio</a> •
   <a target="_blank" href="https://www.linkedin.com/in/vishalgupta26/">💼 LinkedIn</a>
 </p>
