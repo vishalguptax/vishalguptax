@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I'm Vishal Gupta</h1>
-<h3 align="center">Sr. Frontend Developer | Building delightful web experiences</h3>
+<h1 align="center">Hey, I'm Vishal Gupta</h1>
+<h3 align="center">Sr. Frontend Developer | AI + Web Engineer | Gamer 🎮</h3>
 
 <p align="center">
   <a target="_blank" href="https://vishalg.in">🌐 Portfolio</a> •
@@ -10,11 +10,12 @@
 
 ### 🧠 About Me
 
-- 💻 Passionate about **frontend engineering**, crafting fast, scalable, and elegant UIs  
-- 🚀 Experienced with **React**, **Next.js**, **TypeScript**, and **TailwindCSS**  
-- 🤖 Exploring **AI integrations**, **LangChain**, and **AI-driven agents**  
-- ⚡ Also skilled in **Node.js**, **Express**, **MongoDB**, and **Bun**  
-- 🏡 Based in **Ambikapur, India** — open to **remote opportunities**
+- 💻 **Frontend-focused** engineer with a knack for crafting smooth, responsive UIs  
+- 🤖 Blending **AI** and **frontend** to create intelligent, human-like interfaces  
+- ⚙️ Experienced in **React**, **Next.js**, **TypeScript**, and **TailwindCSS**  
+- 🧩 Building with **LangChain**, **Node.js**, **Bun**, and **MongoDB**  
+- 🎮 Gamer @CS / R6 | 🎥 Movie & series lover | 🎵 Lofi & Mitraz moods  
+- 🌍 Based in **Ambikapur, India** | Open to **remote-first work**
 
 ---
 
@@ -29,8 +30,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vishalguptax&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalguptax&layout=compact&theme=transparent&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vishalguptax&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalguptax&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalguptax&bg_color=0f2027&color=00ffcc&line=00ccff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -39,17 +48,26 @@
 
 > “Bridging **frontend excellence** with **AI-driven user experiences**.”
 
-- 🧬 Experimenting with AI agents and LangChain  
-- 🎨 Enhancing UI performance with Next.js 15 and RSC  
-- 🧠 Learning deeper TypeScript patterns  
+- 🧬 Building custom AI agents & integrating LLMs with UI  
+- 🎨 Enhancing performance using **Next.js 15 + RSC**  
+- 🧠 Experimenting with prompt engineering & AI-assisted development  
 
 ---
 
-### ☕ Fun Fact
-When I'm not coding, I’m probably tweaking my setup, exploring AI tools, or learning something new.
+### ☕ Fun Zone
+
+🕹️ Favorite Games: *CS, Rainbow Six Siege*  
+🎬 Watchlist: *Sci-fi, thrillers, anime & binge-worthy series*  
+🎶 Mood: *Lofi nights, clean code, ambient inspiration*
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalguptax&style=flat&color=blueviolet" alt="profile views"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<h3 align="center">✨ Stay chill, code with heart, and let the beats guide you ✨</h3>
