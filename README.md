@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Vishal Gupta</h1>
+<h1 align="center">👋 Hey, I'm Vishal Gupta</h1>
 <h3 align="center">Sr. Frontend Developer | AI + Web Engineer | Gamer 🎮</h3>
 
 <p align="center">
