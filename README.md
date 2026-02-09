@@ -24,7 +24,7 @@
   <i>“Designing experiences that look great, feel fast, and think smart.”</i>
 </p>
 
-🚀 With **3+ years of experience**, I specialize in building **pixel-perfect**, **high-performing** web apps using  
+🚀 With **4+ years of experience**, I specialize in building **pixel-perfect**, **high-performing** web apps using  
 ⚛️ <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>TailwindCSS</b>.  
 🤖 Passionate about the future of the web — I integrate **AI**, **LLMs**, and **RAG pipelines** to create interactive, intelligent user experiences.  
 🧩 I have hands-on knowledge of **Node.js**, **Express**, and **MongoDB**, enabling smooth frontend–backend synergy.  
