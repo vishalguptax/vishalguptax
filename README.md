@@ -1,69 +1,92 @@
-<!-- 🌊 Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" />
+<div align="center">
 
-<!-- 👋 Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=480&lines=👋+Hi%2C+I'm+Vishal+Gupta;&center=true&vCenter=true&repeat=false" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vishal+Gupta;Senior+Frontend+Engineer;React+%C2%B7+Next.js+%C2%B7+Svelte+%C2%B7+TypeScript;Shipping+faster+with+agentic+AI" alt="Hi, I'm Vishal Gupta — Senior Frontend Engineer" />
 
-<h4 align="center">💻 Sr. Frontend Developer | 🤖 AI + Web Engineer | ⚙️ Tech Lead</h4>
+<!-- animated contribution graph: real data, refreshed daily by
+     .github/workflows/update-profile-art.yml -->
 
-<p align="center">
-  <a href="https://vishalg.in"><kbd>🌐 Portfolio</kbd></a> •
-  <a href="https://www.linkedin.com/in/vishalgupta26/"><kbd>💼 LinkedIn</kbd></a> •
-  <a href="https://github.com/vishalguptax"><kbd>🐙 GitHub</kbd></a> •
-  <a href="https://drive.google.com/file/d/your-cv-link-here/view?usp=sharing"><kbd>📄 Resume / CV</kbd></a>
-</p>
+<h3><code>vishal@github ~ $ ./contributions.sh</code></h3>
 
----
+<img src="./contrib-heatmap.svg" width="860" alt="Vishal's GitHub contribution graph — auto-refreshed daily" />
 
-### 🧠 About Me  
+<br>
+<br>
 
-<p>
-  <b>Frontend Engineer • AI Enthusiast • Creative Technologist</b><br>
-  <i>“Designing experiences that look great, feel fast, and think smart.”</i>
-</p>
+<!-- ascii portrait (left) + neofetch card (right), both 840x880.
+     portrait: pip install -r scripts/requirements-portrait.txt
+               python scripts/prep_photo.py source-photo.jpg && python scripts/make_ascii_svg.py
+     card:     edit LINES in scripts/make_info_card.py, then run it -->
 
-🚀 With **4+ years of experience**, I specialize in building **pixel-perfect**, **high-performing** web apps using  
-⚛️ <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>TailwindCSS</b>.  
-🤖 Passionate about the future of the web — I integrate **AI**, **LLMs**, and **RAG pipelines** to create interactive, intelligent user experiences.  
-🧩 I have hands-on knowledge of **Node.js**, **Express**, and **MongoDB**, enabling smooth frontend–backend synergy.  
-✨ I love crafting interfaces that blend **creativity + logic**, where performance meets personality and every pixel has purpose.
+<h3><code>vishal@github ~ $ whoami</code></h3>
 
----
+<table>
+<tr>
+<td valign="top"><img src="./portrait.svg" width="420" alt="Vishal Gupta — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Senior Frontend Engineer at BinaryVeda (Keus smart-home IoT). Previously Tech Lead (Frontend) at vDoIT. TypeScript, React, Next.js, Svelte, Node, NATS, Claude Code, MCP, RAG." /></td>
+</tr>
+</table>
 
-### 🧩 Tech Stack
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,scss,redux,tailwind,bootstrap,materialui,nodejs,express,mongodb,prisma,git,github,aws,figma,vscode&perline=22" />
-</p>
+<h3><code>vishal@github ~ $ ./stats.sh</code></h3>
 
----
+<img src="./stats.svg" width="860" alt="Streak and contribution stats — auto-refreshed daily" />
 
-### 📊 GitHub Stats
+<br>
+<br>
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vishalguptax&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalguptax&layout=compact&theme=radical&hide_border=true" />
-</p>
+<h3><code>vishal@github ~ $ ls ~/projects</code></h3>
 
----
+<table>
+<tr>
+<td width="430" valign="top">
+<a href="https://github.com/vishalguptax/claude-code-manager"><b>claude-code-manager</b></a><br>
+<sub>VS Code extension: Claude Code sessions, MCP servers, skills, usage &amp; accounts in your sidebar. 100% local.</sub>
+</td>
+<td width="430" valign="top">
+<a href="https://github.com/vishalguptax/media-context-mcp"><b>media-context-mcp</b></a><br>
+<sub>Local MCP server that gives agents video, audio &amp; image context: frames, transcripts, OCR. No API keys.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/vishalguptax/agent-skills"><b>agent-skills</b></a><br>
+<sub>Practical, tested skills for AI coding agents (Claude Code, Codex, Cursor, Copilot, Gemini CLI).</sub>
+</td>
+<td valign="top">
+<a href="https://github.com/vishalguptax/agent-engineering-kit"><b>agent-engineering-kit</b></a><br>
+<sub>Rules, skills, agents and hooks for running Claude Code like an engineering team.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/vishalguptax/code-clip"><b>code-clip</b></a><br>
+<sub>Share code snippets with expiring links.</sub>
+</td>
+<td valign="top">
+<a href="https://github.com/vishalguptax/api-tester"><b>api-tester</b></a><br>
+<sub>Test API responses right in the browser.</sub>
+</td>
+</tr>
+</table>
 
-### ⚙️ Current Focus
+<br>
 
-> “Blending **frontend craftsmanship** with **AI intelligence** to create seamless user experiences.”
+<h3><code>vishal@github ~ $ cat stack.txt</code></h3>
 
-- 🧬 Building **AI agents** and **RAG-powered web apps**  
-- 🎨 Refining performance and scalability in **Next.js 15**  
-- 🚀 Exploring **LangChain**, **prompt engineering**, and **real-time AI UI**  
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,redux,html,css,nodejs,express,mongodb,postgres,electron,git,github,githubactions,vscode,figma&perline=10" alt="TypeScript, JavaScript, React, Next.js, Svelte, Tailwind, Redux, HTML, CSS, Node.js, Express, MongoDB, PostgreSQL, Electron, Git, GitHub, GitHub Actions, VS Code, Figma" />
 
----
+<br>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalguptax&style=flat-square&color=ff6b6b" />
-</p>
+<h3><code>vishal@github ~ $ ./links.sh</code></h3>
 
-<h4 align="center">✨ Stay chill, code with heart, and let the beats guide you ✨</h4>
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishalg.in-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalgupta26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalgupta26/)
+[![Email](https://img.shields.io/badge/Email-vishalgupta26x@gmail.com-39d353?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vishalgupta26x@gmail.com)
 
-<!-- 🌊 Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vishalguptax&style=flat-square&color=39d353&label=profile+views" alt="profile views" />
+
+</div>
