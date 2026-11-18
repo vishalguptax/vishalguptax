@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vishal+Gupta;Senior+Frontend+Engineer;React+%C2%B7+Next.js+%C2%B7+Svelte+%C2%B7+TypeScript;Shipping+faster+with+agentic+AI" alt="Hi, I'm Vishal Gupta — Senior Frontend Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vishal+Gupta;Senior+Frontend+Engineer;React+%C2%B7+Next.js+%C2%B7+Svelte+%C2%B7+TypeScript;Shipping+faster+with+agentic+AI" alt="Hi, I'm Vishal Gupta — Senior Software Engineer" />
 
 <!-- animated contribution graph: real data, refreshed daily by
      .github/workflows/update-profile-art.yml -->
