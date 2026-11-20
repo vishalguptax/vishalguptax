@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vishal+Gupta;Senior+Frontend+Engineer;React+%C2%B7+Next.js+%C2%B7+Svelte+%C2%B7+TypeScript;Shipping+faster+with+agentic+AI" alt="Hi, I'm Vishal Gupta — Senior Software Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vishal+Gupta;Senior+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+Svelte+%C2%B7+TypeScript;Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%C2%B7+AI+agents;Shipping+faster+with+agentic+AI" alt="Hi, I'm Vishal Gupta — Senior Software Engineer" />
 
 <!-- animated contribution graph: real data, refreshed daily by
      .github/workflows/update-profile-art.yml -->
@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./portrait.svg" width="420" alt="Vishal Gupta — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="420" alt="Senior Frontend Engineer at BinaryVeda (Keus smart-home IoT). Previously Tech Lead (Frontend) at vDoIT. TypeScript, React, Next.js, Svelte, Node, NATS, Claude Code, MCP, RAG." /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Senior Software Engineer, 5+ years. Senior Frontend Engineer at BinaryVeda (Keus smart-home IoT); previously Tech Lead at vDoIT. TypeScript, React, Next.js, Svelte, Node, Python, FastAPI, PostgreSQL, NATS, WebRTC, LangChain, RAG, MCP, Claude Code." /></td>
 </tr>
 </table>
 
@@ -74,7 +74,7 @@
 
 <h3><code>vishal@github ~ $ cat stack.txt</code></h3>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,redux,html,css,nodejs,express,mongodb,postgres,electron,git,github,githubactions,vscode,figma&perline=10" alt="TypeScript, JavaScript, React, Next.js, Svelte, Tailwind, Redux, HTML, CSS, Node.js, Express, MongoDB, PostgreSQL, Electron, Git, GitHub, GitHub Actions, VS Code, Figma" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,redux,html,css,nodejs,express,py,fastapi,postgres,mongodb,electron,git,github,githubactions,vscode,figma&perline=10" alt="TypeScript, JavaScript, React, Next.js, Svelte, Tailwind, Redux, HTML, CSS, Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Electron, Git, GitHub, GitHub Actions, VS Code, Figma" />
 
 <br>
 <br>
@@ -82,6 +82,7 @@
 <h3><code>vishal@github ~ $ ./links.sh</code></h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vishalg.in-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalg.in)
+[![CV](https://img.shields.io/badge/CV-cv.vishalg.in-e3b341?style=for-the-badge&logo=readdotcv&logoColor=black)](https://cv.vishalg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalgupta26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalgupta26/)
 [![Email](https://img.shields.io/badge/Email-vishalgupta26x@gmail.com-39d353?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vishalgupta26x@gmail.com)
 
